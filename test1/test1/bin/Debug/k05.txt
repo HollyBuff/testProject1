@@ -1,0 +1,23 @@
+Filename: k05.csv
+
+Capacity: 13
+
+Greedy minimum boundry: 
+a,3,6
+d,7,7
+
+Greedy maximum boundry: 
+Final value is partially included: 
+a,3,6
+c,1,2
+d,7,7
+e,4,5
+
+Optimal Solution: 
+a,3,6
+b,5,3
+c,1,2
+e,4,5
+
+Dumb search completed after 00:00:00.0112932
+Smarter search completed after 00:00:00.0006778
