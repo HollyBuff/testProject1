@@ -1,0 +1,83 @@
+Filename: A4.csv
+
+Capacity: 900
+
+Greedy minimum boundry: 
+a,38,100
+b,37,99
+c,36,100
+d,35,104
+e,39,97
+h,42,107
+i,43,101
+j,44,99
+k,50,98
+l,40,103
+m,36,101
+n,52,102
+o,39,99
+q,35,97
+r,37,103
+s,49,98
+u,34,99
+v,50,102
+w,36,97
+x,40,100
+y,41,108
+z,39,105
+
+Greedy maximum boundry: 
+Final value is partially included: 
+a,38,100
+b,37,99
+c,36,100
+d,35,104
+e,39,97
+f,40,95
+g,41,94
+h,42,107
+i,43,101
+j,44,99
+l,40,103
+m,36,101
+o,39,99
+p,42,93
+q,35,97
+r,37,103
+t,44,96
+u,34,99
+v,50,102
+w,36,97
+x,40,100
+y,41,108
+z,39,105
+
+Optimal Solution: 
+a,38,100
+b,37,99
+c,36,100
+d,35,104
+e,39,97
+h,42,107
+i,43,101
+j,44,99
+k,50,98
+l,40,103
+m,36,101
+n,52,102
+o,39,99
+q,35,97
+r,37,103
+s,49,98
+u,34,99
+v,50,102
+w,36,97
+x,40,100
+y,41,108
+z,39,105
+
+With a value of 2219
+
+Dumb search completed after 00:03:10.8567944
+Smarter search completed after 00:00:14.3108849
+Sorted smarter search completed after 00:00:14.3059953
